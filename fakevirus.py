@@ -25,11 +25,16 @@ print("finished")
 
 time.sleep(2)
 
+print("\n\n\n")
 
-print("But...")
-print("   /    \ ")
+
+print("But...\n\n\n")
+print("    ____  ")
+print("   /----\  ")
 print("   |-  -|")
-print("   | <> |")
-print("   \(--)/")
+print("   | <> |     ")
+print("   \(--)/  <=|D'OH")
+print("    |  | \n")
 print("All that was a joke ! ")
-print("This program is only a fake virus made for keeping you awareness against real threats. \nIf you believed that it was real, it is normal (we doesn't see viruses everyday). \nKeeping your softwares up to date, avoiding to download files from everywhere (github is a good source because of source code is public), and avoiding to open strange emails are good ways for avoiding to see your computer down.")
+print("This program is only a fake virus made for keeping you awareness against real threats. \n\nSorry if you believed that it was real. \n\nKeeping your softwares up to date, avoiding to download files from everywhere (github is a good source because of source code is public), and avoiding to open strange emails are good ways for avoiding to see your computer hacked.")
+time.sleep(100)
